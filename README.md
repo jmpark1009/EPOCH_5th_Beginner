@@ -13,9 +13,9 @@
 ## 코드 제출 방식
 1️⃣ 교재 실습
 
-- Pandas Chapter 제출 경로: EPOCH_5th_Beginner/PandasN/이름_practice.ipynb
+- Pandas Chapter 제출 경로: EPOCH_5th_Beginner/weekN/이름_Pandas.ipynb
 
-- Matplotlib Chapter 제출 경로: EPOCH_5th_Beginner/MatplotlibN/이름_practice.ipynb
+- Matplotlib Chapter 제출 경로: EPOCH_5th_Beginner/weekN/이름_Matplotlib.ipynb
 
  - 이름은 자유롭게 입력
 
